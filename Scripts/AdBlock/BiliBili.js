@@ -98,13 +98,13 @@ if (body) {
               //   pos: 2,
               //   default_selected: 1,
               // },
-              {
-                id: 41,
-                name: '热门',
-                uri: 'bilibili://pegasus/hottopic',
-                tab_id: 'hottopic',
-                pos: 3,
-              },
+              // {
+              //   id: 41,
+              //   name: '热门',
+              //   uri: 'bilibili://pegasus/hottopic',
+              //   tab_id: 'hottopic',
+              //   pos: 3,
+              // },
               {
                 id: 545,
                 name: '番剧',
